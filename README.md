@@ -87,6 +87,8 @@ Answered key questions:
 - Charts: Ad click rate, Email campaign performance, Top channels
 
 📁 File: `Marketing Analytics Dashboard.pbix`
+### 📊 Power BI Dashboard
+![Dashboard Screenshot](images/powerbi_dashboard.png)
 
 ---
 
