@@ -78,7 +78,8 @@ Answered key questions:
 - Campaign ROI (spend vs click rate)
 
 📄 File: `SQL_script.sql`
-
+### 📊 Workbench screenshot
+![SQL Screenshot](https://github.com/Bhargav-Barewar/marketing-analytics-churn-prediction/blob/main/Screenshots/SQL.png)
 ---
 
 ### 5. 🔹 Power BI Dashboard
@@ -88,7 +89,7 @@ Answered key questions:
 
 📁 File: `Marketing Analytics Dashboard.pbix`
 ### 📊 Power BI Dashboard
-![Dashboard Screenshot](images/powerbi_dashboard.png)
+![Dashboard Screenshot](https://github.com/Bhargav-Barewar/marketing-analytics-churn-prediction/blob/main/Screenshots/dashboard.png)
 
 ---
 
@@ -104,7 +105,7 @@ Answered key questions:
 - Key feature: Days since last purchase
 
 📄 File: `churn_prediction_model.ipynb`
-
+![Python Screenshot](https://github.com/Bhargav-Barewar/marketing-analytics-churn-prediction/blob/main/Screenshots/model.png)
 ---
 
 ## 📌 Insights Summary (from `initial_insights.docx`)
